@@ -1,0 +1,6 @@
+numerical_col_1,numerical_col_2,categorical_col_1,categorical_col_2
+10.0,1.5,A,X
+20.0,2.3,B,Y
+,3.1,A,X
+40.0,,C,
+50.0,5.0,B,Z
